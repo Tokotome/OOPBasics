@@ -1,0 +1,3 @@
+C:\Users\SM\Documents\Visual Studio 2015\Projects\DefiningClassesExercises\DefiningClassesExercises\bin\Debug\DefiningClassesExercises.exe.config
+C:\Users\SM\Documents\Visual Studio 2015\Projects\DefiningClassesExercises\DefiningClassesExercises\obj\Debug\DefiningClassesExercises.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\DefiningClassesExercises\DefiningClassesExercises\obj\Debug\DefiningClassesExercises.pdb

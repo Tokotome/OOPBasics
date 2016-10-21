@@ -1,0 +1,6 @@
+c:\users\sm\documents\visual studio 2015\Projects\DefiningClassesExercises\DefiningClassesExercises\bin\Debug\DefiningClassesExercises.exe.config
+c:\users\sm\documents\visual studio 2015\Projects\DefiningClassesExercises\DefiningClassesExercises\bin\Debug\DefiningClassesExercises.exe
+c:\users\sm\documents\visual studio 2015\Projects\DefiningClassesExercises\DefiningClassesExercises\bin\Debug\DefiningClassesExercises.pdb
+c:\users\sm\documents\visual studio 2015\Projects\DefiningClassesExercises\DefiningClassesExercises\obj\Debug\DefiningClassesExercises.csprojResolveAssemblyReference.cache
+c:\users\sm\documents\visual studio 2015\Projects\DefiningClassesExercises\DefiningClassesExercises\obj\Debug\DefiningClassesExercises.exe
+c:\users\sm\documents\visual studio 2015\Projects\DefiningClassesExercises\DefiningClassesExercises\obj\Debug\DefiningClassesExercises.pdb

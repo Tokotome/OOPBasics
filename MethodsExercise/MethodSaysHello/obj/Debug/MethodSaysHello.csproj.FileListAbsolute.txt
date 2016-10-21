@@ -1,0 +1,6 @@
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\MethodSaysHello\bin\Debug\MethodSaysHello.exe.config
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\MethodSaysHello\obj\Debug\MethodSaysHello.csprojResolveAssemblyReference.cache
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\MethodSaysHello\bin\Debug\MethodSaysHello.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\MethodSaysHello\bin\Debug\MethodSaysHello.pdb
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\MethodSaysHello\obj\Debug\MethodSaysHello.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\MethodSaysHello\obj\Debug\MethodSaysHello.pdb

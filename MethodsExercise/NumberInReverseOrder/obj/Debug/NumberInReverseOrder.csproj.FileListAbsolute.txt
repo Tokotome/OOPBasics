@@ -1,0 +1,6 @@
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\NumberInReverseOrder\bin\Debug\NumberInReverseOrder.exe.config
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\NumberInReverseOrder\bin\Debug\NumberInReverseOrder.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\NumberInReverseOrder\bin\Debug\NumberInReverseOrder.pdb
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\NumberInReverseOrder\obj\Debug\NumberInReverseOrder.csprojResolveAssemblyReference.cache
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\NumberInReverseOrder\obj\Debug\NumberInReverseOrder.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\MethodsExercise\NumberInReverseOrder\obj\Debug\NumberInReverseOrder.pdb

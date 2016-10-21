@@ -1,0 +1,6 @@
+C:\Users\SM\documents\visual studio 2015\Projects\DefiningClassesExercises\CreatingConstructors\bin\Debug\CreatingConstructors.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\DefiningClassesExercises\CreatingConstructors\obj\Debug\CreatingConstructors.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\DefiningClassesExercises\CreatingConstructors\bin\Debug\CreatingConstructors.exe
+C:\Users\SM\documents\visual studio 2015\Projects\DefiningClassesExercises\CreatingConstructors\bin\Debug\CreatingConstructors.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\DefiningClassesExercises\CreatingConstructors\obj\Debug\CreatingConstructors.exe
+C:\Users\SM\documents\visual studio 2015\Projects\DefiningClassesExercises\CreatingConstructors\obj\Debug\CreatingConstructors.pdb

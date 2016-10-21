@@ -1,0 +1,6 @@
+c:\users\sm\documents\visual studio 2015\Projects\MethodsExercise\MethodsExercise\bin\Debug\MethodsExercise.exe.config
+c:\users\sm\documents\visual studio 2015\Projects\MethodsExercise\MethodsExercise\bin\Debug\MethodsExercise.exe
+c:\users\sm\documents\visual studio 2015\Projects\MethodsExercise\MethodsExercise\bin\Debug\MethodsExercise.pdb
+c:\users\sm\documents\visual studio 2015\Projects\MethodsExercise\MethodsExercise\obj\Debug\ImmutableListProgram.csprojResolveAssemblyReference.cache
+c:\users\sm\documents\visual studio 2015\Projects\MethodsExercise\MethodsExercise\obj\Debug\MethodsExercise.exe
+c:\users\sm\documents\visual studio 2015\Projects\MethodsExercise\MethodsExercise\obj\Debug\MethodsExercise.pdb
