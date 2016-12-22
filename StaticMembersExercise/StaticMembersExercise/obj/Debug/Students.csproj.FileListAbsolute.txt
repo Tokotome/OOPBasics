@@ -1,0 +1,6 @@
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\StaticMembersExercise\bin\Debug\StaticMembersExercise.exe.config
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\StaticMembersExercise\bin\Debug\StaticMembersExercise.exe
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\StaticMembersExercise\bin\Debug\StaticMembersExercise.pdb
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\StaticMembersExercise\obj\Debug\Students.csprojResolveAssemblyReference.cache
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\StaticMembersExercise\obj\Debug\StaticMembersExercise.exe
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\StaticMembersExercise\obj\Debug\StaticMembersExercise.pdb

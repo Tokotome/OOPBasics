@@ -1,0 +1,5 @@
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\PlanckConstant\bin\Debug\PlanckConstant.exe.config
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\PlanckConstant\bin\Debug\PlanckConstant.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\PlanckConstant\bin\Debug\PlanckConstant.pdb
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\PlanckConstant\obj\Debug\PlanckConstant.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\PlanckConstant\obj\Debug\PlanckConstant.pdb

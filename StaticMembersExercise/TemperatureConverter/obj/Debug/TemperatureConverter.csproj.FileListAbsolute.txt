@@ -1,0 +1,6 @@
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\TemperatureConverter\bin\Debug\TemperatureConverter.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\TemperatureConverter\obj\Debug\TemperatureConverter.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\TemperatureConverter\obj\Debug\TemperatureConverter.pdb

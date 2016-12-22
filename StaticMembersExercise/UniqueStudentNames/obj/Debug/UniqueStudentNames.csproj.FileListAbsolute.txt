@@ -1,0 +1,6 @@
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\UniqueStudentNames\bin\Debug\UniqueStudentNames.exe.config
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\UniqueStudentNames\bin\Debug\UniqueStudentNames.exe
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\UniqueStudentNames\bin\Debug\UniqueStudentNames.pdb
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\UniqueStudentNames\obj\Debug\UniqueStudentNames.exe
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\UniqueStudentNames\obj\Debug\UniqueStudentNames.pdb
+c:\users\sm\documents\visual studio 2015\Projects\StaticMembersExercise\UniqueStudentNames\obj\Debug\UniqueStudentNames.csprojResolveAssemblyReference.cache

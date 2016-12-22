@@ -1,0 +1,2 @@
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\ShapesVolume\bin\Debug\ShapesVolume.exe.config
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\ShapesVolume\obj\Debug\ShapesVolume.csprojResolveAssemblyReference.cache

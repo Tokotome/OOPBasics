@@ -1,0 +1,6 @@
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\BasicMath\bin\Debug\BasicMath.exe.config
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\BasicMath\bin\Debug\BasicMath.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\BasicMath\bin\Debug\BasicMath.pdb
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\BasicMath\obj\Debug\BasicMath.csprojResolveAssemblyReference.cache
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\BasicMath\obj\Debug\BasicMath.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\StaticMembersExercise\BasicMath\obj\Debug\BasicMath.pdb

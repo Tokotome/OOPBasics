@@ -1,0 +1,6 @@
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\BeerCounter\bin\Debug\BeerCounter.exe.config
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\BeerCounter\bin\Debug\BeerCounter.exe
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\BeerCounter\bin\Debug\BeerCounter.pdb
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\BeerCounter\obj\Debug\BeerCounter.csprojResolveAssemblyReference.cache
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\BeerCounter\obj\Debug\BeerCounter.exe
+C:\Users\SM\documents\visual studio 2015\Projects\StaticMembersExercise\BeerCounter\obj\Debug\BeerCounter.pdb
