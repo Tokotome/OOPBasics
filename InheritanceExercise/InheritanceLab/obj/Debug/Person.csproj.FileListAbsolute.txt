@@ -1,0 +1,6 @@
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\InheritanceLab\bin\Debug\InheritanceLab.exe.config
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\InheritanceLab\bin\Debug\InheritanceLab.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\InheritanceLab\bin\Debug\InheritanceLab.pdb
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\InheritanceLab\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\InheritanceLab\obj\Debug\InheritanceLab.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\InheritanceLab\obj\Debug\InheritanceLab.pdb

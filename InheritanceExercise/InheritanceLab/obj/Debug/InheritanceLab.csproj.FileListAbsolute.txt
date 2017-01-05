@@ -1,0 +1,1 @@
+c:\users\sm\documents\visual studio 2015\Projects\InheritanceLab\InheritanceLab\bin\Debug\InheritanceLab.exe.config

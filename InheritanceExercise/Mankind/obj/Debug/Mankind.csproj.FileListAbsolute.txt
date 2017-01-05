@@ -1,0 +1,6 @@
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\Mankind\bin\Debug\Mankind.exe.config
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\Mankind\bin\Debug\Mankind.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\Mankind\bin\Debug\Mankind.pdb
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\Mankind\obj\Debug\Mankind.csprojResolveAssemblyReference.cache
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\Mankind\obj\Debug\Mankind.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\InheritanceLab\Mankind\obj\Debug\Mankind.pdb
