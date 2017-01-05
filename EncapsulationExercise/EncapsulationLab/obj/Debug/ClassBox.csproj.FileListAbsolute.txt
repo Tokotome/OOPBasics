@@ -1,0 +1,6 @@
+C:\Users\SM\Documents\Visual Studio 2015\Projects\EncapsulationLab\EncapsulationLab\bin\Debug\EncapsulationLab.exe.config
+C:\Users\SM\Documents\Visual Studio 2015\Projects\EncapsulationLab\EncapsulationLab\bin\Debug\EncapsulationLab.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\EncapsulationLab\EncapsulationLab\bin\Debug\EncapsulationLab.pdb
+C:\Users\SM\Documents\Visual Studio 2015\Projects\EncapsulationLab\EncapsulationLab\obj\Debug\ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\SM\Documents\Visual Studio 2015\Projects\EncapsulationLab\EncapsulationLab\obj\Debug\EncapsulationLab.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\EncapsulationLab\EncapsulationLab\obj\Debug\EncapsulationLab.pdb

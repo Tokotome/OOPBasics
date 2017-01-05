@@ -1,0 +1,5 @@
+C:\Users\SM\Documents\Visual Studio 2015\Projects\EncapsulationLab\PizzaCalories\bin\Debug\PizzaCalories.exe.config
+C:\Users\SM\Documents\Visual Studio 2015\Projects\EncapsulationLab\PizzaCalories\bin\Debug\PizzaCalories.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\EncapsulationLab\PizzaCalories\bin\Debug\PizzaCalories.pdb
+C:\Users\SM\Documents\Visual Studio 2015\Projects\EncapsulationLab\PizzaCalories\obj\Debug\PizzaCalories.exe
+C:\Users\SM\Documents\Visual Studio 2015\Projects\EncapsulationLab\PizzaCalories\obj\Debug\PizzaCalories.pdb
